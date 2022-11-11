@@ -1,1 +1,3 @@
-[[[![Anurag's GitHub status](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/)](https://github.com/katmeister/katmeister.git)](https://github.com/katmeister/katmeister.git)
+[![Anurag's GitHub status](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anur)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
